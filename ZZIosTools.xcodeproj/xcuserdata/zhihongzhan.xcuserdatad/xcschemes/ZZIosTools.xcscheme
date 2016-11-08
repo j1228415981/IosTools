@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA7D50ED1DD1847F00BB6DD6"
-               BuildableName = "libIosTools.a"
-               BlueprintName = "IosTools"
-               ReferencedContainer = "container:IosTools.xcodeproj">
+               BlueprintIdentifier = "DA7D516E1DD1B7EE00BB6DD6"
+               BuildableName = "libZZIosTools.a"
+               BlueprintName = "ZZIosTools"
+               ReferencedContainer = "container:ZZIosTools.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA7D50ED1DD1847F00BB6DD6"
-            BuildableName = "libIosTools.a"
-            BlueprintName = "IosTools"
-            ReferencedContainer = "container:IosTools.xcodeproj">
+            BlueprintIdentifier = "DA7D516E1DD1B7EE00BB6DD6"
+            BuildableName = "libZZIosTools.a"
+            BlueprintName = "ZZIosTools"
+            ReferencedContainer = "container:ZZIosTools.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA7D50ED1DD1847F00BB6DD6"
-            BuildableName = "libIosTools.a"
-            BlueprintName = "IosTools"
-            ReferencedContainer = "container:IosTools.xcodeproj">
+            BlueprintIdentifier = "DA7D516E1DD1B7EE00BB6DD6"
+            BuildableName = "libZZIosTools.a"
+            BlueprintName = "ZZIosTools"
+            ReferencedContainer = "container:ZZIosTools.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

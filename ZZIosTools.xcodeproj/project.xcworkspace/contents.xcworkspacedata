@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:IosTools.xcodeproj">
+      location = "self:ZZIosTools.xcodeproj">
    </FileRef>
 </Workspace>
